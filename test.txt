@@ -1,4 +1,0 @@
-
-from windows
-trigger build
-changes in Feature1 branch which need to be rebase with integration branch
